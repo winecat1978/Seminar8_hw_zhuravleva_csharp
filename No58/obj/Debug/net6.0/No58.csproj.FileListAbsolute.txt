@@ -1,0 +1,15 @@
+C:\Users\mob19\HW_Seminar8\No58\obj\Debug\net6.0\No58.csproj.AssemblyReference.cache
+C:\Users\mob19\HW_Seminar8\No58\obj\Debug\net6.0\No58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mob19\HW_Seminar8\No58\obj\Debug\net6.0\No58.AssemblyInfoInputs.cache
+C:\Users\mob19\HW_Seminar8\No58\obj\Debug\net6.0\No58.AssemblyInfo.cs
+C:\Users\mob19\HW_Seminar8\No58\obj\Debug\net6.0\No58.csproj.CoreCompileInputs.cache
+C:\Users\mob19\HW_Seminar8\No58\bin\Debug\net6.0\No58.exe
+C:\Users\mob19\HW_Seminar8\No58\bin\Debug\net6.0\No58.deps.json
+C:\Users\mob19\HW_Seminar8\No58\bin\Debug\net6.0\No58.runtimeconfig.json
+C:\Users\mob19\HW_Seminar8\No58\bin\Debug\net6.0\No58.dll
+C:\Users\mob19\HW_Seminar8\No58\bin\Debug\net6.0\No58.pdb
+C:\Users\mob19\HW_Seminar8\No58\obj\Debug\net6.0\No58.dll
+C:\Users\mob19\HW_Seminar8\No58\obj\Debug\net6.0\refint\No58.dll
+C:\Users\mob19\HW_Seminar8\No58\obj\Debug\net6.0\No58.pdb
+C:\Users\mob19\HW_Seminar8\No58\obj\Debug\net6.0\No58.genruntimeconfig.cache
+C:\Users\mob19\HW_Seminar8\No58\obj\Debug\net6.0\ref\No58.dll
